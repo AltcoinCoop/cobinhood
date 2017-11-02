@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+    <defs>
+        <path id="a" d="M0 0h200v200H0z"/>
+        <path id="c" d="M0 46.667h91.667v2.5H0z"/>
+        <path id="d" d="M108.333 46.667H200v2.5h-91.667z"/>
+        <path id="e" d="M13.333 40h78.333v2.5H13.333z"/>
+        <path id="f" d="M108.333 40H180v2.5h-71.667z"/>
+        <path id="g" d="M20 33.333h71.667v2.5H20z"/>
+        <path id="h" d="M108.333 33.333H175v2.5h-66.667z"/>
+        <path id="i" d="M33.333 26.667h58.333v2.5H33.333z"/>
+        <path id="j" d="M108.333 26.667h63.333v2.5h-63.333z"/>
+        <path id="k" d="M53.333 20h38.333v2.5H53.333z"/>
+        <path id="l" d="M108.333 20h43.333v2.5h-43.333z"/>
+        <path id="m" d="M61.667 13.333h30v2.5h-30z"/>
+        <path id="n" d="M108.333 13.333h30v2.5h-30z"/>
+        <path id="o" d="M66.667 6.667h25v2.5h-25z"/>
+        <path id="p" d="M108.333 6.667h15v2.5h-15z"/>
+        <path id="q" d="M76.667 0h15v2.5h-15z"/>
+        <path id="r" d="M108.333 0h8.333v2.5h-8.333z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#122028" fill-opacity="0" xlink:href="#a"/>
+        <g stroke="#FFF" stroke-linecap="round" stroke-width="1.5" mask="url(#b)">
+            <path d="M149.648 50.352c0 27.225-22.07 49.296-49.296 49.296s-49.296-22.07-49.296-49.296 22.07-49.296 49.296-49.296c27.225 0 49.296 22.07 49.296 49.296z"/>
+            <path d="M141.753 50.352c0 22.865-18.536 41.403-41.401 41.403-22.865 0-41.402-18.538-41.402-41.403S77.487 8.95 100.352 8.95c22.865 0 41.401 18.537 41.401 41.402z"/>
+        </g>
+        <text fill="#FFF" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="48" font-weight="300" mask="url(#b)">
+            <tspan x="87.279" y="70">?</tspan>
+        </text>
+        <g mask="url(#b)">
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#c"/>
+                <path stroke="#FFF" d="M.5 47.167h90.667v1.5H.5z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#d"/>
+                <path stroke="#13BF99" d="M108.833 47.167H199.5v1.5h-90.667z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#e"/>
+                <path stroke="#FFF" d="M13.833 40.5h77.333V42H13.833z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#f"/>
+                <path stroke="#13BF99" d="M108.833 40.5H179.5V42h-70.667z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#g"/>
+                <path stroke="#FFF" d="M20.5 33.833h70.667v1.5H20.5z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#h"/>
+                <path stroke="#13BF99" d="M108.833 33.833H174.5v1.5h-65.667z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#i"/>
+                <path stroke="#FFF" d="M33.833 27.167h57.333v1.5H33.833z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#j"/>
+                <path stroke="#13BF99" d="M108.833 27.167h62.333v1.5h-62.333z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#k"/>
+                <path stroke="#FFF" d="M53.833 20.5h37.333V22H53.833z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#l"/>
+                <path stroke="#13BF99" d="M108.833 20.5h42.333V22h-42.333z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#m"/>
+                <path stroke="#FFF" d="M62.167 13.833h29v1.5h-29z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#n"/>
+                <path stroke="#13BF99" d="M108.833 13.833h29v1.5h-29z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#o"/>
+                <path stroke="#FFF" d="M67.167 7.167h24v1.5h-24z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#p"/>
+                <path stroke="#13BF99" d="M108.833 7.167h14v1.5h-14z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#q"/>
+                <path stroke="#FFF" d="M77.167.5h14V2h-14z"/>
+            </g>
+            <g transform="translate(0 150)">
+                <use fill="#FFF" fill-opacity="0" xlink:href="#r"/>
+                <path stroke="#13BF99" d="M108.833.5h7.333V2h-7.333z"/>
+            </g>
+        </g>
+        <path stroke="#13BF99" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M89.687 128.721H75l24.509 12.612 24.508-12.612H109.33v-20.216H89.687z" mask="url(#b)"/>
+    </g>
+</svg>

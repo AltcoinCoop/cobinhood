@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="187" height="177" viewBox="0 0 187 177">
+    <defs>
+        <path id="a" d="M0 0h200v200H0z"/>
+        <ellipse id="c" cx="23.711" cy="141.394" rx="5.594" ry="5.582"/>
+        <ellipse id="d" cx="71.83" cy="115.766" rx="10.49" ry="10.466"/>
+        <ellipse id="e" cx="122.041" cy="38" rx="30.07" ry="30.004"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-1 -19)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#122028" fill-opacity="0" xlink:href="#a"/>
+        <g font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" mask="url(#b)">
+            <text transform="translate(-11.78 52.001)">
+                <tspan x="62.105" y="141.394" fill="#FFF">Jan.</tspan>
+            </text>
+            <text transform="translate(-11.78 52.001)">
+                <tspan x="19.062" y="111.348" fill="#13BF99">5.6 M</tspan>
+            </text>
+            <text transform="translate(-11.78 52.001)">
+                <tspan x="13.502" y="86.604" fill="#13BF99">40.8 M</tspan>
+            </text>
+            <text transform="translate(-11.78 52.001)">
+                <tspan x="16.282" y="10.605" fill="#13BF99">987 M</tspan>
+            </text>
+            <text transform="translate(-11.78 52.001)">
+                <tspan x="109.711" y="141.394" fill="#FFF">Apr.</tspan>
+            </text>
+            <text transform="translate(-11.78 52.001)">
+                <tspan x="161.312" y="141.394" fill="#FFF">Jul.</tspan>
+            </text>
+        </g>
+        <g mask="url(#b)">
+            <g fill="#FFF">
+                <path d="M35.64 19.723h2.093V178.79H35.64z"/>
+                <path d="M37.036 176.14h150.633v2.65H37.036z"/>
+            </g>
+            <g transform="translate(35.64 19.723)">
+                <use fill="#13BF99" fill-opacity=".3" xlink:href="#c"/>
+                <ellipse cx="23.711" cy="141.394" stroke="#13BF99" stroke-width="1.5" rx="4.844" ry="4.832"/>
+            </g>
+            <g transform="translate(35.64 19.723)">
+                <use fill="#13BF99" fill-opacity=".3" xlink:href="#d"/>
+                <ellipse cx="71.83" cy="115.766" stroke="#13BF99" stroke-width="1.5" rx="9.74" ry="9.716"/>
+            </g>
+            <path stroke="#13BF99" stroke-linecap="round" stroke-width="1.5" d="M158.255 58.787L106.3 135.985l-46.824 25.45-21.346 14.334"/>
+            <g transform="translate(35.64 19.723)">
+                <use fill="#13BF99" fill-opacity=".3" xlink:href="#e"/>
+                <ellipse cx="122.041" cy="38" stroke="#13BF99" stroke-width="1.5" rx="29.32" ry="29.254"/>
+            </g>
+        </g>
+    </g>
+</svg>

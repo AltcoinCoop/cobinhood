@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="502" height="502" viewBox="0 0 502 502">
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <circle cx="250" cy="250" r="250" fill="#13BF99" fill-opacity=".3" stroke="#13BF99"/>
+        <path fill="#24B18F" d="M250 0v500c138.07 0 249.998-111.927 249.998-250C499.998 111.93 388.07 0 250 0" opacity=".7"/>
+        <path fill="#13BF99" stroke="#13BF99" d="M500 249.767C500 111.825 388.213 0 250.316 0c-.105 0-.211.006-.316.006l.316 249.761L398.216 451C459.942 405.527 500 332.332 500 249.767"/>
+        <g fill="#FFF" font-weight="300">
+            <text font-family="Helvetica Neue" font-size="64" transform="translate(58 158)">
+                <tspan x="10.02" y="62">50%</tspan>
+            </text>
+            <text font-family="Helvetica Neue" font-size="20" transform="translate(58 158)">
+                <tspan x=".49" y="99">ICO 참여자 수</tspan>
+            </text>
+        </g>
+        <g fill="#FFF" font-weight="300">
+            <text font-family="Helvetica Neue" font-size="64" transform="translate(295 158)">
+                <tspan x="20.02" y="62">40%</tspan>
+            </text>
+            <text font-family="Helvetica Neue" font-size="20" transform="translate(295 158)">
+                <tspan x=".29" y="99">COBINHOOD, Ltd.</tspan>
+            </text>
+        </g>
+        <g fill="#FFF" font-weight="300">
+            <text font-family="Helvetica Neue" font-size="36" transform="translate(261 382)">
+                <tspan x="4.48" y="35">10%</tspan>
+            </text>
+            <text font-family="Helvetica Neue" font-size="18" transform="translate(261 382)">
+                <tspan x="15.657" y="60">비공식 </tspan> <tspan x="15.687" y="81">보유금</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

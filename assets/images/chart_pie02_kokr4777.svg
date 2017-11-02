@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="502" height="502" viewBox="0 0 502 502">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#13BF99" stroke="#13BF99">
+            <path fill-opacity=".2" d="M250.632 1.005c-54.985.068-105.801 17.9-147.04 48.053l147.357 201.89-.317-249.943z"/>
+            <path fill-opacity=".4" d="M103.592 49.058c-41.736 30.515-73.65 73.65-90.131 123.794l237.487 78.096-147.356-201.89z"/>
+            <path d="M500.894 250.948C500.894 112.906 388.99 1 250.948 1c-.105 0-.212.005-.316.005l.316 249.943 148.055 201.379c61.792-45.505 101.891-118.754 101.891-201.379"/>
+            <path fill-opacity=".8" d="M103.186 452.542c41.391 30.39 92.476 48.353 147.763 48.353 55.415 0 106.612-18.048 148.055-48.568L250.949 250.948 103.186 452.542z"/>
+            <path fill-opacity=".6" d="M13.46 172.852C5.383 197.426 1 223.672 1 250.948c0 82.755 40.227 156.104 102.187 201.593l147.76-201.593L13.46 172.852z"/>
+        </g>
+        <g fill="#FFF">
+            <text font-family="Helvetica Neue" font-size="36" font-weight="300" transform="translate(211 363)">
+                <tspan x="10.98" y="35">20%</tspan>
+            </text>
+            <text font-family="Helvetica Neue" font-size="18" font-weight="300" transform="translate(211 363)">
+                <tspan x="23" y="60">작업</tspan>
+            </text>
+        </g>
+        <text fill="#FFF" font-family="Helvetica Neue" font-size="36" font-weight="300" transform="translate(1 1)">
+            <tspan x="63.48" y="299">20%</tspan>
+        </text>
+        <text fill="#FFF" font-family="Helvetica Neue" font-size="18" font-weight="300" transform="translate(1 1)">
+            <tspan x="67.324" y="324">마케팅</tspan>
+        </text>
+        <text fill="#FFF" font-family="Helvetica Neue" font-size="36" font-weight="300" transform="translate(1 1)">
+            <tspan x="63.48" y="123">10%</tspan>
+        </text>
+        <text fill="#FFF" font-family="Helvetica Neue" font-size="36" font-weight="300" transform="translate(1 1)">
+            <tspan x="163.48" y="73">10%</tspan>
+        </text>
+        <text fill="#FFF" font-family="Helvetica Neue" font-size="18" font-weight="300" transform="translate(1 1)">
+            <tspan x="175.666" y="98">법률</tspan>
+        </text>
+        <g fill="#FFF">
+            <text font-family="Helvetica Neue" font-size="36" font-weight="300" transform="translate(306 210)">
+                <tspan x="45.98" y="35">40%</tspan>
+            </text>
+            <text font-family="Helvetica Neue" font-size="18" font-weight="300" transform="translate(306 210)">
+                <tspan x="45" y="58">제품 개발</tspan>
+            </text>
+        </g>
+        <text fill="#FFF" font-family="Helvetica Neue" font-size="14" font-weight="300" transform="translate(1 1)">
+            <tspan x="68.45" y="154">검수 및</tspan> <tspan x="62.047" y="170">보안 준수</tspan>
+        </text>
+    </g>
+</svg>

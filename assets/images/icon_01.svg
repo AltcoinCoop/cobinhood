@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="184" viewBox="0 0 200 184">
+    <defs>
+        <path id="a" d="M0 0h200v200H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(0 -8)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#122028" fill-opacity="0" xlink:href="#a"/>
+        <g stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+            <path d="M11.987 54.239l8.8 14.154L31.91 55.982zM187.94 146.592l-8.8-14.154-11.124 12.411z"/>
+            <path d="M178.659 145.78c-17.104 29.625-50.286 48.301-86.613 45.123-36.324-3.178-65.76-27.332-77.459-59.477M21.268 55.05c17.104-29.626 50.286-48.3 86.613-45.122 36.326 3.178 65.76 27.33 77.459 59.477"/>
+        </g>
+        <g mask="url(#b)">
+            <g stroke="#FFF" stroke-width="1.5" transform="translate(0 80)">
+                <circle cx="20" cy="20" r="19.25"/>
+                <g stroke-linecap="round">
+                    <path d="M20.2 19.667H14v-8.334h6.2c3.189 0 5.8 1.814 5.8 4.029v.278c0 2.215-2.611 4.027-5.8 4.027zM20.2 28H14v-8.333h6.2c3.189 0 5.8 1.813 5.8 4.028v.278C26 26.188 23.389 28 20.2 28zM18 8v23.333M21 8v23.333"/>
+                </g>
+            </g>
+        </g>
+        <g mask="url(#b)">
+            <g stroke="#FFF" stroke-width="1.5" transform="translate(160 80)">
+                <circle cx="20" cy="20" r="19.25"/>
+                <g stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M21.067 8L29 20l-7.933-4zM18.933 8L11 20l7.933-4zM21.067 26L29 23l-7.933 10zM18.933 26L11 23l7.933 10z"/>
+                    <path d="M21.067 16L29 20l-7.933 3zM18.933 16L11 20l7.933 3z"/>
+                </g>
+            </g>
+        </g>
+        <g stroke="#13BF99" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+            <path d="M137.657 77.728H115.34l11.158 19.327zM115.34 77.728h22.316l-11.158-19.325z"/>
+            <path d="M126.498 97.054h22.317l-11.158-19.326zM99.707 55.845L88.55 75.172h22.316z"/>
+            <path d="M88.55 75.172l11.157-19.327H77.391zM110.865 75.172l11.158-19.327H99.707zM61.708 77.785l11.158 19.326 11.158-19.326z"/>
+            <path d="M72.866 97.11L61.708 77.785 50.55 97.11zM84.024 77.785L72.866 58.46 61.708 77.785zM99.672 143.53l11.158-19.326H88.514zM110.83 124.205L99.672 143.53h22.316zM88.514 124.205L77.356 143.53h22.316zM137.672 121.59l-11.158-19.326-11.158 19.327z"/>
+            <path d="M126.514 102.264l11.158 19.327 11.158-19.327zM115.355 121.59l11.159 19.328 11.158-19.327zM61.708 121.674h22.316l-11.158-19.327zM84.024 121.674H61.708l11.158 19.327zM72.866 102.347H50.55l11.158 19.327z"/>
+        </g>
+    </g>
+</svg>
